@@ -9,3 +9,5 @@
 > git branch -M main
 > git remote add origin https://github.com/bash4bags/Elevate_Labs_Task_6_15_04_2025
 > git push -u origin main
+4. Enabling github pages
+>goto repository settings > select pages > select branch main > folder root > save
